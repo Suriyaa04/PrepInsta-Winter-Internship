@@ -1,0 +1,40 @@
+Week 3 Project 1- DATA CLEANING USING PANDA:
+PROJECT LINK : https://colab.research.google.com/drive/1CBdbxSx9DI1Y8W2geJX5mTWsYbQRXAjx?usp=sharing
+
+Week 3 Project 2- Data Cleaning (chipotle.tsv)
+PROJECT LINK : https://colab.research.google.com/drive/1cS94svEiu9fSH2N-xFPJ271FN8305Kvw?usp=sharing
+
+
+THINGS WHAT I LEARNED!!!
+
+
+1. Exploring the Dataset:
+Start by delving into the dataset, understanding its structure, column names, and the nature of its contents.
+Detect and address any missing values, outliers, or inconsistencies in the data.
+
+2. Setting Up Libraries:
+Configure your Python environment with Pandas and Numpy, and ensure you have a suitable platform for coding, like Jupyter Notebook.
+Consider installing additional libraries such as Matplotlib, Seaborn, and Scikit-learn for enhanced analysis and visualization.
+
+3. Cleaning the Data:
+Tackle missing values using strategies like imputation or removal, depending on the context.
+Use methods like .drop_duplicates() to manage duplicate records.
+Implement checks to maintain consistency and rectify errors in data entry.
+
+4. Transforming the Data:
+Leverage Pandas and Numpy functions to reshape the dataset to suit analysis requirements.
+Explore feature engineering to generate new variables, normalize numerical data, and handle categorical variables appropriately.
+
+5. Addressing Outliers:
+Identify and handle outliers using visualizations like box plots or scatter plots.
+Choose an approach, such as removal or transformation, to deal with outliers based on their impact on analysis.
+
+6. Validating the Data:
+Conduct statistical tests or visual assessments to validate assumptions made during cleaning and transformation.
+Cross-verify key variables against external sources and ensure alignment with analysis goals.
+
+7. Documentation:
+Document each step with clear code comments and markdown explanations in your Jupyter Notebook.
+Articulate the reasoning behind decisions made during data manipulation.
+Include visualizations and summary statistics in your documentation.
+
